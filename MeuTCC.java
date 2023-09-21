@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class campo implements ActionListener {
+public class MeuTCC implements ActionListener {
     private JFrame frame;
     private JButton[][] buttons;
     private int[][] board;
