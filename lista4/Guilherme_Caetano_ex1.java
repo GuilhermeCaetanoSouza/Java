@@ -3,7 +3,7 @@ Guilherme caetano de souza
 29/05
 */
 
-public class Taina_Exercicio01{
+public class Guilherme_Exercicio01{
 
 public static void main(String[] args){
 
